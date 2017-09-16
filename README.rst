@@ -1,4 +1,4 @@
-ITKModuleTemplate
+ITKWavelet
 =================
 
 
