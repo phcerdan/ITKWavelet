@@ -1,6 +1,9 @@
 ITKWavelet
 =================
 
+Dev history on `fork ITK branch
+<https://github.com/phcerdan/ITK/tree/wavelet>`_
+
 
 .. image:: https://circleci.com/gh/InsightSoftwareConsortium/ITKModuleTemplate.svg?style=shield
     :target: https://circleci.com/gh/InsightSoftwareConsortium/ITKModuleTemplate
